@@ -1,0 +1,66 @@
+body{
+    margin: 0 auto;
+}
+
+.main{
+    width: 800px;
+    min-height: 600px;
+    background: white;
+    float: left;
+}
+
+.header{
+    width: 800px;
+    min-height: 100px;
+    background: pink;
+    float: left;
+    margin-bottom: 5px;
+    padding: 10px;
+    box-sizing: border-box;
+
+}
+
+.center{
+    width: 800px;
+    min-height: 400px;
+    background: white;
+    float: left;
+}
+
+.bottom{
+    width: 800px;
+    min-height: 100px;
+    background: pink;
+    float: left;
+    margin-top: 5px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.nav{
+    width: 195px;
+    min-height: inherit;
+    background: pink;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.article{
+    width: 500px;
+    min-height: inherit;
+    background: pink;
+    float: left;
+    margin: 0px 5px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.ads{
+    width: 95px;
+    min-height: inherit;
+    background: pink;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
